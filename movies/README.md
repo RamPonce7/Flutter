@@ -1,6 +1,6 @@
 # Movies APP by RamPonce
 
-A Flutter application.
+A Flutter application with API https://developers.themoviedb.org/
 
 ## Overview
 
